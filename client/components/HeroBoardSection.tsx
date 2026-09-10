@@ -21,7 +21,7 @@ const columns = [
     label: "Manage projects",
     icon: FolderKanban,
     cards: [
-      { title: "Q3 Website Revamp", meta: "12 tasks", tone: "active" },
+      { title: "Q3 Website Revamp", meta: "12 tasks", tone: "done" },
       { title: "Mobile App v2", meta: "8 tasks", tone: "neutral" },
     ],
   },
